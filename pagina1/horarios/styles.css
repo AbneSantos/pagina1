@@ -1,0 +1,51 @@
+table{
+    height: 350px;
+    width: 600px;
+    text-align:initial;
+    border-collapse: collapse;
+}
+
+tr, td{
+    border: 1px solid black;
+    padding: 3px;
+}
+
+.verde{
+    background-color: green;
+}
+
+.verdec{
+    background-color: greenyellow;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.azul{
+    background-color: aqua;
+}
+
+.azull{
+    background-color: blue;
+}
+
+.laranja{
+    background-color: orange;
+}
+
+.roxo{
+    background-color: purple;
+}
+
+.cinza{
+    background-color: grey;
+}
+.cab{
+    background-color: antiquewhite;
+}
+
