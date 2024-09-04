@@ -13,6 +13,7 @@ header{
     z-index: 1;
     top: 0px;
     width: 100%;
+
 }
 
 .header{
@@ -32,13 +33,28 @@ header{
     
 }
 
+.header nav{
+    padding: 20px;
+
+}
+
 .header nav a{
     padding: 10px;
-    font-size: 22px;
+    text-decoration: none;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 30px;
+    font-style: normal;
+
+    
+}
+
+.header nav a:hover{
+    color: burlywood;
 }
 
 .container-1{
-    margin-top: 70px;
+    margin-top: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
